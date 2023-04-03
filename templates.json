@@ -1,0 +1,8 @@
+{
+  "react" : {
+    "temp" : "import React from 'react'; \r const templates = () => { \r return <div>templates</div>; \r }; \r export default templates;"
+  } ,
+  "http" : {
+    "temp" : "import React from 'react'; \r const templates = () => { \r return <div>templates</div>; \r }; \r export default templates;"
+  }
+}
